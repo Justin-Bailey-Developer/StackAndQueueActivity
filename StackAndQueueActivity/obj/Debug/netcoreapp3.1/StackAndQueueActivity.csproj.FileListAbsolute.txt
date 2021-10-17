@@ -1,0 +1,13 @@
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.csprojAssemblyReference.cache
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.AssemblyInfoInputs.cache
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.AssemblyInfo.cs
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.csproj.CoreCompileInputs.cache
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\bin\Debug\netcoreapp3.1\StackAndQueueActivity.exe
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\bin\Debug\netcoreapp3.1\StackAndQueueActivity.deps.json
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\bin\Debug\netcoreapp3.1\StackAndQueueActivity.runtimeconfig.json
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\bin\Debug\netcoreapp3.1\StackAndQueueActivity.runtimeconfig.dev.json
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\bin\Debug\netcoreapp3.1\StackAndQueueActivity.dll
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\bin\Debug\netcoreapp3.1\StackAndQueueActivity.pdb
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.dll
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.pdb
+F:\2021\Semester 2\PROG7312\LAC Activities\StackAndQueueActivity\StackAndQueueActivity\obj\Debug\netcoreapp3.1\StackAndQueueActivity.genruntimeconfig.cache

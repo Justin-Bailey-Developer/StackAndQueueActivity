@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YeB6mXS0tbFhJntE7Xv9T9TQQpbOhR/qvTinMI8H004oRlbEfETuSR6uwZefqNfXrhs/ybq1DmcTD1e0pCXjpw==",
+  "success": true,
+  "projectFilePath": "F:\\2021\\Semester 2\\PROG7312\\ICE\\StackAndQueueActivity\\StackAndQueueActivity\\StackAndQueueActivity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
